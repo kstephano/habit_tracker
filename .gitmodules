@@ -1,0 +1,7 @@
+[submodule "client"]
+	path = client
+	url = https://github.com/kstephano/habit_tracker_client.git
+[submodule "server"]
+	path = server
+	url = https://github.com/kstephano/habit_tracker_server.git
+	branch = main
