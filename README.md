@@ -1,5 +1,5 @@
 # Habits are Forever - a habit tracking website application
-Contributors: Angela Dyrmishi, Urslan Mali, James Quinn, Kelvin Stephano.
+Contributors: Angela Dyrmishi, Urslan Malik, James Quinn, Kelvin Stephano.
  
 ## Description
 Habits are Forever is a website that allows users to track their habits, be it custom or default. Users can enter an amount for a habit in order to increase its progress. Gamification elements such as streaks, top streaks and a leaderboard are
